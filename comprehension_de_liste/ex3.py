@@ -42,6 +42,6 @@ eleves = [
 ]
 
 # génére la liste des élèves ayant eu moins de 8
-eleves_nb_sup_8 = [eleves for eleves in eleves if eleves[1] > 8]
-print(eleves_nb_sup_8)
+eleves_nb_inf_8 = [eleves for eleves in eleves if eleves[1] < 8]
+print(eleves_nb_inf_8)
 

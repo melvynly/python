@@ -5,14 +5,9 @@
 liste = []
 
 for i in range(1, 11):
-    liste.append((i,i))
+    table = []
     for j in range(1, 11):
-        lises = []
-        print(i*j)
-        liste.append(lises)
+        table.append(i * j)
+    liste.append(table)
 
 print(liste)
-
-
-
-
