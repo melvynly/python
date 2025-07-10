@@ -1,0 +1,71 @@
+{
+    "title": "Good Old-Fashioned Pancakes",
+    "instructions": "Sift flour, baking powder, sugar, and salt together in a large bowl. Make a well in the center and add milk, melted butter, and egg; mix until smooth.\nHeat a lightly oiled griddle or pan over medium-high heat. Pour or scoop the batter onto the griddle, using approximately 1/4 cup for each pancake; cook until bubbles form and the edges are dry, about 2 to 3 minutes. Flip and cook until browned on the other side. Repeat with remaining batter.",
+    "ingredients": [
+        "1.5 cups all-purpose flour",
+        "3.5 teaspoons baking powder",
+        "1 tablespoon white sugar",
+        "0.25 teaspoon salt, or more to taste",
+        "1.25 cups milk",
+        "3 tablespoons butter, melted",
+        "1 egg"
+    ],
+    "nutrients": {
+        "calories": "158 kcal",
+        "carbohydrateContent": "22 g",
+        "cholesterolContent": "38 mg",
+        "fiberContent": "1 g",
+        "proteinContent": "5 g",
+        "saturatedFatContent": "3 g",
+        "sodiumContent": "504 mg",
+        "sugarContent": "4 g",
+        "fatContent": "6 g",
+        "unsaturatedFatContent": "0 g"
+    }
+},
+{
+    "title": "Uglies",
+    "instructions": "Preheat oven to 400 degrees F (200 degrees C). Lightly grease 8 muffin cups.\nIn a large skillet or frying pan, cook ground chuck with onion and garlic powder until evenly brown; drain off the grease. Stir in the barbeque sauce and simmer for another 3 minutes.\nRoll out each biscuit on a floured surface so that each biscuit is 6 inches across. Put the biscuit in the muffin tin and fold up sides to create a cup shape. Fill each biscuit fill almost to the top with the meat mixture; top with cheddar cheese.\nBake in preheated oven until biscuits are baked, cheese is melted and tops are golden brown, about 15 minutes.",
+    "ingredients": [
+        "1 pound ground beef chuck",
+        "0.5 cup chopped onion",
+        "0.5 teaspoon garlic powder",
+        "1.5 cups barbeque sauce",
+        "1 (10 ounce) package refrigerated biscuit dough",
+        "2 cups shredded Cheddar cheese"
+    ],
+    "nutrients": {
+        "calories": "360 kcal",
+        "carbohydrateContent": "34 g",
+        "cholesterolContent": "56 mg",
+        "fiberContent": "1 g",
+        "proteinContent": "17 g",
+        "saturatedFatContent": "8 g",
+        "sodiumContent": "1091 mg",
+        "sugarContent": "16 g",
+        "fatContent": "17 g",
+        "unsaturatedFatContent": "0 g"
+    }
+},
+{
+    "title": "Homemade Dog Food",
+    "instructions": "Gather all ingredients.\nPlace ground turkey, water, rice, and rosemary into a large Dutch oven. Stir until ground turkey is broken up and evenly distributed throughout the mixture; bring to a boil over high heat, then reduce heat to low and simmer for 20 minutes.\nAdd frozen vegetables, and cook for an additional 5 minutes.\nRemove from heat and cool.\nRefrigerate until using.",
+    "ingredients": [
+        "1 pound ground turkey",
+        "6 cups water",
+        "2 cups brown rice",
+        "1 teaspoon dried rosemary",
+        "0.5 (16 ounce) package frozen broccoli, carrots and cauliflower combination"
+    ],
+    "nutrients": {
+        "calories": "440 kcal",
+        "carbohydrateContent": "64 g",
+        "cholesterolContent": "72 mg",
+        "fiberContent": "5 g",
+        "proteinContent": "23 g",
+        "saturatedFatContent": "3 g",
+        "sodiumContent": "118 mg",
+        "fatContent": "10 g",
+        "unsaturatedFatContent": "0 g"
+    }
+},
